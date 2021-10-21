@@ -1,6 +1,6 @@
 # Random.py
 ## Repositório dedicado a projetos aleatórios e não muito complexos em Python:
-<h3><a href="./leiame.md">Go to this page in portuguese, click here</a></h3>
+<h3><a href="./Readme.md">Para acessar esse texto em Inglês, clique aqui</a></h3>
 <ul>
     <li><h3>💰🤑Diretorio 13_Salario:</h3></li>
     <ul>
