@@ -16,4 +16,9 @@
             <li><p class="pj_description">Jogo da velha em desenvolvimento</p></li>
         </ul>
     <hr class="div">
+    <li><h3 class="pj_name">⚽🕹️Montando seu elenco de Futebol:</h3></li>
+        <ul class="item">
+            <li><p class="pj_description">Jogo para montar seu elenco de futebol, enquanto trabalho com repetições e listas</p></li>
+        </ul>
+    <hr class="div">
 </ul>
