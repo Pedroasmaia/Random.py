@@ -8,7 +8,7 @@
     <hr class="div">
     <li><h3 class="pj_name">02 | 👊🖐Diretorio Pedra_Papel_Tesoura:</h3></li>
         <ul class="item">
-        <li><p class="pj_description">O Famoso Pedra Papel Tesoutra em desenvolvimento se não for finalizado até 02/02/2022, considere abandonado</p></li>
+        <li><p class="pj_description">O Famoso Pedra Papel Tesoura | Finalizado 03/12/2021</p></li>
         </ul>
     <hr class="div">
     <li><h3 class="pj_name">03 | ⭕❌Diretorio Tic_Tac_Toe:</h3></li>
