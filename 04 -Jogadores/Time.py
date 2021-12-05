@@ -7,6 +7,7 @@ atacantes = []
 print('Quantos goleiros seu time vai ter?')
 gol_qtd =  int(input())
 
+
 if gol_qtd <= 3:
     for gol_qtd in range(gol_qtd):
         print('Escolha seu {}° Goleiro:'.format(gol_qtd + 1))    
