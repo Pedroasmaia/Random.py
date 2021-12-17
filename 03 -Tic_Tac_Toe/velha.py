@@ -67,3 +67,7 @@ def gameboard_pl(game_board, l1, l2):
             Button[i][j] = Button(game_board,bd=5, command=get_t, height=4, width=8)
             Button[i][j].grid(row=N,column=n)
     game_board.mainloop()
+# AI next move
+def pc():
+    possiblemove = []
+    for i in range(len)

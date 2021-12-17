@@ -3,7 +3,7 @@
 <ul class="list">
     <li><h3 class="pj_name">01 | 💰🤑13Salario:</h3></li>
         <ul class="item">
-            <li><p class="pj_description">Programa simples realizado para facilitar o calculo de antecipação do 13° Salario a ser liberado por cooperativas de credito.</p></li>
+            <li><p class="pj_description">Programa simples realizado para facilitar o calculo de antecipação do 13° Salario a ser liberado por cooperativas de credito. | Finalizado em 10/2021</p></li>
         </ul>
     <hr class="div">
     <li><h3 class="pj_name">02 | 👊🖐Jokenpô:</h3></li>
@@ -13,7 +13,7 @@
     <hr class="div">
     <li><h3 class="pj_name">03 | ⭕❌Jogo da Velha:</h3></li>
         <ul class="item">
-            <li><p class="pj_description">Jogo da velha em desenvolvimento, se não for finalizado até 02/02/2022 considere abandonado</p></li>
+            <li><p class="pj_description">Jogo da velha | Abandonado</p></li>
         </ul>
     <hr class="div">
     <li><h3 class="pj_name">04 | ⚽🕹️Montando seu elenco de Futebol:</h3></li>
