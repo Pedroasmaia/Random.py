@@ -14,5 +14,5 @@ def pegarvendas():
   resposta = {'total de vendas' : total_vendas}
   return jsonify(resposta)
 #Rodar nossa api
-app.run(host='0.0.0.0')
+app.run()
 
