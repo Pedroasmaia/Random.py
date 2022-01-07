@@ -36,6 +36,7 @@
                     <li><p class="afazer"> 4B | Limitar número máximo de zagueiros ❌</p></li>
                     </ul>
                 </li>
+        <hr class="div">
     </div>
     <div class="projeto">
         <li><h3 class="pj_name">05 | 🤖🎮API Hashtag Treinamentos:</h3></li>
@@ -47,7 +48,7 @@
     <div class="projeto">
         <li><h3 class="pj_name">06 | 🤖🎮Site Hashtag Treinamentos:</h3></li>
             <ul class="item">
-                <li><p class="pj_description">Tutorial | <a href='https://www.youtube.com/watch?v=WWVEymSt1iI&list=WL&index=1'>Hashtag treinamentos</a></p></li>
+                <li><p class="pj_description">Tutorial | <a href='https://www.youtube.com/watch?v=K2ejI4z8Mbg&list=WL&index=1'>Hashtag treinamentos</a></p></li>
             </ul>
         <hr class="div">
     </div>
