@@ -23,17 +23,11 @@
         <hr class="div">
     </div>
     <div class="projeto">
-        <li><h3 class="pj_name">04 | ⚽🕹️Montando seu elenco de Futebol:</h3></li>
+        <li><h3 class="pj_name">04 | ⚽🕹️Montando seu elenco de Futebol | Abandonado</h3></li>
             <ul class="item">
                 <li><h4>Descrição:</h4>
                     <ul>
                     <li><p class="pj_description">Jogo para montar seu elenco de futebol, enquanto trabalho com repetições e listas</p></li>
-                    </ul>
-                </li>
-                <li><h4>Afazeres:</h4>
-                    <ul>
-                    <li><p class="afazer"> 4A | Definir função para rodar reduzir a escrita do Código ❌</p></li>
-                    <li><p class="afazer"> 4B | Limitar número máximo de zagueiros ❌</p></li>
                     </ul>
                 </li>
     </div>
