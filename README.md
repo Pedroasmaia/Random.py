@@ -49,3 +49,35 @@
         </ul>
     <hr class="div">
 </ul>
+
+## Proximos testes
+<ul class="list">
+    <div class="projeto">
+        <li><h3 class="pj_name">SIMULADOR DE DADO:</h3></li>
+            <ul class="item">
+                <li><p class="pj_description">Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser.</p></li>
+            </ul>
+        <hr class="div">
+    </div>
+    <div class="projeto">
+        <li><h3 class="pj_name">DECIDA POR MIM:</h3></li>
+            <ul class="item">
+                <li><p class="pj_description">Objetivo: Crie um script que responda qualquer pergunta que for feita a ele. Recomendo ter uma base de possíveis respostas (10-20 ou mais). Ex: Será que devo sair de casa hoje? Seu script reponde: “Sim, vai lá!”</p></li>
+            </ul>
+        <hr class="div">
+    </div>
+    <div class="projeto">
+        <li><h3 class="pj_name">JOGO DE AVENTURA:</h3></li>
+            <ul class="item">
+                <li><p class="pj_description">Objetivo: Crie um jogo que levará o usuário a vários possíveis finais de acordo com as respostas que forem passadas para ele.</p></li>
+            </ul>
+        <hr class="div">
+    </div>
+    <div class="projeto">
+        <li><h3 class="pj_name">GUI(PYSIMPLEGUI)</h3></li>
+            <ul class="item">
+                <li><p class="pj_description">Objetivos: Seus projetos em Python tem uma chance muito maior de serem vistos e notados caso você crie uma interface gráfica(GUI) para todos seus projetos anteriores.</p></li>
+            </ul>
+        <hr class="div">
+    </div>
+<ul>
