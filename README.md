@@ -24,12 +24,8 @@
     </div>
     <div class="projeto">
         <li><h3 class="pj_name">04 | ⚽🕹️Montando seu elenco de Futebol | Abandonado</h3></li>
-            <ul class="item">
-                <li><h4>Descrição:</h4>
-                    <ul>
+            <ul class="item">       
                     <li><p class="pj_description">Jogo para montar seu elenco de futebol, enquanto trabalho com repetições e listas</p></li>
-                    </ul>
-                </li>
     </div>
         <hr class="div">
     <div class="projeto">
@@ -46,19 +42,19 @@
             </ul>
         <hr class="div">
     </div>
+    <div class="projeto">
+        <li><h3 class="pj_name">07 | 🎲🕹️Simulador de Dado:</h3></li>
+            <ul class="item">
+                <li><p class="pj_description">Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser.</p></li>
+            </ul>
+        <hr class="div">
+    </div>
         </ul>
     <hr class="div">
 </ul>
 
 ## Proximos testes
 <ul class="list">
-    <div class="projeto">
-        <li><h3 class="pj_name">SIMULADOR DE DADO:</h3></li>
-            <ul class="item">
-                <li><p class="pj_description">Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser.</p></li>
-            </ul>
-        <hr class="div">
-    </div>
     <div class="projeto">
         <li><h3 class="pj_name">DECIDA POR MIM:</h3></li>
             <ul class="item">
