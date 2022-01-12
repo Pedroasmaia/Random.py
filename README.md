@@ -45,7 +45,7 @@
     <div class="projeto">
         <li><h3 class="pj_name">07 | 🎲🕹️Simulador de Dado:</h3></li>
             <ul class="item">
-                <li><p class="pj_description">Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser.</p></li>
+                <li><p class="pj_description">Objetivo: Seu script deve gerar um valor aleatório entre 1 e 6(ou uma faixa que você definir) e permitir que o usuário rode o script quantas vezes quiser. | Finalizado 12/01/2022</p></li>
             </ul>
         <hr class="div">
     </div>
