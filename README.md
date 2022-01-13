@@ -49,19 +49,17 @@
             </ul>
         <hr class="div">
     </div>
-        </ul>
-    <hr class="div">
-</ul>
-
-## Proximos testes
-<ul class="list">
     <div class="projeto">
-        <li><h3 class="pj_name">DECIDA POR MIM:</h3></li>
+        <li><h3 class="pj_name">08 | 🧞‍♂️🧠Sábio conselheiro:</h3></li>
             <ul class="item">
                 <li><p class="pj_description">Objetivo: Crie um script que responda qualquer pergunta que for feita a ele. Recomendo ter uma base de possíveis respostas (10-20 ou mais). Ex: Será que devo sair de casa hoje? Seu script reponde: “Sim, vai lá!”</p></li>
             </ul>
         <hr class="div">
     </div>
+</ul>
+
+## Proximos testes
+<ul class="list">
     <div class="projeto">
         <li><h3 class="pj_name">JOGO DE AVENTURA:</h3></li>
             <ul class="item">
