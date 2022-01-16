@@ -56,6 +56,13 @@
             </ul>
         <hr class="div">
     </div>
+    <div class="projeto">
+        <li><h3 class="pj_name">09 | 🐕🤖Toquinho:</h3></li>
+            <ul class="item">
+                <li><p class="pj_description">Bot para o discord</p></li>
+            </ul>
+        <hr class="div">
+    </div>
 </ul>
 
 ## Proximos testes
