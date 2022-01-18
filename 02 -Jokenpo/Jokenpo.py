@@ -1,4 +1,4 @@
-import random
+import random as rd
 rodadas = 1
 #Lógica para Definir Jogadas
 for rodadas in range(rodadas):
@@ -14,7 +14,7 @@ for rodadas in range(rodadas):
         jogada1 = None
         print('Escolha um número entre 1 e 3')
         break
-    jogada2 = (random.randrange(1,4))
+    jogada2 = (rd.randrange(1,4))
     if jogada2 == 1:
         jogada2 = "Pedra"
     elif jogada2 == 2:
@@ -24,7 +24,9 @@ for rodadas in range(rodadas):
     print('Você jogou {}'.format(jogada1))
     print('O Adversario jogou {}'.format(jogada2))
 #Lógica para definir vencedor
-if jogada1 == "Pedra" and jogada2 != "Papel":
+if jogada1 == jogada2:
+    print('Houve um empate')
+elif jogada1 == "Pedra" and jogada2 != "Papel":
     print("Parabens!! Você ganhou!")
 elif jogada1 == "Papel" and jogada2 != "Tesoura":
     print("Parabens!! Você ganhou!")
