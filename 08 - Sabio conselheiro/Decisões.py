@@ -2,7 +2,7 @@ import random
 from typing import Counter
 
 #Variaveis para falas do sabio
-y_falas = ['Acho que deveria', 'Quase sempre o mais certo é fazer','Vai dar certo', 'A decisão certa sempre é a mais improvavel','nunca fique a merce de sí mesmo', 'Não,seja cauteloso','Sim, apenas seja cauteloso']
+y_falas = ['Acho que deveria', 'Quase sempre o mais certo é fazer','Vai dar certo', 'A decisão certa sempre é a mais improvavel','nunca fique a merce de sí mesmo','Sim, apenas seja cauteloso']
 n_falas = ['Então saia da minha frente','Em você vejo quão tolo um ser humano pode ser','Não se deve jogar joias para porcos','Não foi pra isso que me codaram','Sou eu quem resposto, ou alguem predestinou essa conversa?','Porque veio aqui então?']
 
 
