@@ -2,7 +2,11 @@
 
 ## Observações:
 
-![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1062?logoColor=white%26project=Random.py%26recentMS=0%26showProject=false)
+Tempo : ![Code Time](https://img.shields.io/endpoint?style=flat-square&url=https://codetime-api.datreks.com/badge/1062?logoColor=white%26project=Random.py%26recentMS=0%26showProject=false)
+
+Tempo : ![Stars](https://img.shields.io/github/stars/Pedroasmaia/Random.py?style=flat-square)
+
+
 ## Repositório dedicado a projetos aleatórios e não muito complexos em Python:
 <ul class="list">
     <div class="projeto">
